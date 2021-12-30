@@ -1,14 +1,7 @@
 Purl
 ====
 
-Purl is a simple Object Oriented URL manipulation library for PHP 7.2+
-
-[![Build Status](https://secure.travis-ci.org/jwage/purl.png?branch=master)](http://travis-ci.org/jwage/purl)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/jwage/purl/badges/quality-score.png?s=7e0e1d4b5d7f6be61a3cd804dba556a0e4d1141d)](https://scrutinizer-ci.com/g/jwage/purl/)
-[![Code Coverage](https://scrutinizer-ci.com/g/jwage/purl/badges/coverage.png?s=a02332bc4d6a32df3171f2ba714e4583a70c0154)](https://scrutinizer-ci.com/g/jwage/purl/)
-[![Latest Stable Version](https://poser.pugx.org/jwage/purl/v/stable.png)](https://packagist.org/packages/jwage/purl)
-[![Total Downloads](https://poser.pugx.org/jwage/purl/downloads.png)](https://packagist.org/packages/jwage/purl)
-
+Purl fork is a simple Object Oriented URL manipulation library for PHP 8.0+
 ## Installation
 
 The suggested installation method is via [composer](https://getcomposer.org/):
